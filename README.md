@@ -1,0 +1,2 @@
+# tricks
+personnal  bash scripts
